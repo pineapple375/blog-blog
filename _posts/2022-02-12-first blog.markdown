@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Write a Post"
+title: "first blog"
 date: 2022-02-12
 categories: poem rap
 feature_image: feature-image.jpg
