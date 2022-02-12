@@ -1,34 +1,13 @@
 ---
 layout: post
 title: "Write a Post"
-date: 2021-05-31
-categories: jekyll blogging
+date: 2022-02-12
+categories: poem rap
 feature_image: feature-image.jpg
 ---
 
-The goal of this article is to add some extra info about blog writing with _Jekyll_.
+# 初ブログ
 
-_Photo by [Aaron Burden](https://unsplash.com/@aaronburden)_
-
-## Structure your posts
-
-Use level 2 (`##`) and if necessary level 3 (`###`) titles to structure your posts.
-
-## Display code snippets
-
-You can display a block of code like the following using triple backticks. 
-You can also specify the language after the first triple backticks.
-
-```python
-def hello(name):
-    return f'hello {name}'
-```
-
-## Add images
-
-Create an `assets` folder where you can put all your images, 
-then display them with a link starting with an exclamative mark like this: 
-`![my inspiring image]({{ "/assets/sample-image.jpg" | relative_url }})`.
-
-![my inspiring image]({{ "/assets/sample-image.jpg" | relative_url }})
-_Photo by [Ian Schneider](https://unsplash.com/@goian)_
+## First journy
+俺らが向かうのは常夏の楽園？、いやまだまだ日差しが厳しい灼熱の学園。 どいつもこいつも知らないその名は????。仲間と空港からタクシーにライディング、でもその間の会話はナッシング。
+たどり着いたぜOOOOO。舗装されてない土の道はまるでゴールデン。
