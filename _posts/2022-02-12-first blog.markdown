@@ -3,7 +3,7 @@ layout: post
 title: "first blog"
 date: 2022-02-12
 categories: poem rap
-feature_image: feature-image.jpg
+#eature_image: feature-image.jpg
 ---
 
 # 初ブログ
